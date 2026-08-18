@@ -5,3 +5,5 @@
 - Course: BSCS-AI
 - Section: 09282-FUNDAI
 - GitHub Username: gitjohnpaul
+## Laboratory Activities
+- Lab 1: Environment Onboarding
