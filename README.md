@@ -1,4 +1,4 @@
-# -FUNDAI-Laboratories-NELLAS
+# FUNDAI-Laboratories-NELLAS
 # FUNDAI Laboratory Outputs
 ## Student Information
 - Name: John Paul S. Nellas  
