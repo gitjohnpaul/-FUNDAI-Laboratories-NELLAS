@@ -7,6 +7,8 @@
 - GitHub Username: gitjohnpaul
 ## Laboratory Activities
 - Lab 1: Environment Onboarding
+- Lab 2: Search Algorithms
+- 
 
 
 
